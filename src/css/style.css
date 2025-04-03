@@ -30,7 +30,13 @@ header {
 #content article {
     display: flex;
     flex-direction: column;
-    align-items: cener;
+    align-items: center;
+}
+#content img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20vw;
 }
 aside {
     background: lightblue;
